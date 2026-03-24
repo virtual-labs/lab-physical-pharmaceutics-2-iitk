@@ -78,7 +78,7 @@
     "name": "True Density determination of Pharmaceutical Powders",
     "short-name": "true-density-determination",
     "repo": "https://github.com/virtual-labs/exp-true-density-determination-iitk",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   }
 ],
